@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **FastApi, Python and Database**
+- 💬 Ask me about **Django, PlSql, FastApi, Python and Database**
 
 - 📫 How to reach me **codersamim@gmail.com**
 
